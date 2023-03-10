@@ -48,6 +48,8 @@ public class EricDuotech {
       //  WebElement homePageText = driver.findElement(By.className("pageHeadingBig"));
         //String expectedHomePageText = "You Might Also Like";
        // String actualHomePageText = homePageText.getText();
+
+
         //Assert.assertEquals(actualHomePageText, expectedHomePageText);
 
 
